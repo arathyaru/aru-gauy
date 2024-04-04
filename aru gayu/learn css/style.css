@@ -1,0 +1,17 @@
+h1{
+	color:red;
+	text-align:center;
+	text-align:right;
+	text-align:left;
+}
+p{
+	color:blue;
+	text-align:justify;
+	font-size:25px;
+	font-family:verdana;
+	font-family:Segoe Script;
+}
+
+body{
+	background-color:yellow;
+}

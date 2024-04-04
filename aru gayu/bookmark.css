@@ -1,0 +1,19 @@
+h1{
+	color:rose;
+	text-align:right;
+	text-align:left;
+	text-align:center;
+	color:red;
+}
+p{
+	color:blue;
+	text-align:Fixedsys;
+	font-size:25px;
+	font-family:verdana;
+	font-family:Segoe Script;
+	font-family:Gabriola;
+}
+
+body{
+	background-color:black;
+}

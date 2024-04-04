@@ -1,0 +1,18 @@
+h1.fb{
+	color:red;
+}
+p.fbpara{
+	color:blue;
+}
+
+h1#wa{
+	color:green;
+}
+
+p#wapara{
+	color:violet;
+}
+
+span.gnu{
+	color:orange;
+}

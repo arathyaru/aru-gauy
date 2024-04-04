@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>social media</title>
+</head>
+<body>
+<h1>SOCIAL MEDIA</h1>
+<img src="dy.webp" height="300px">
+
+
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+h1.demo{
+    color: red;
+    text-align: center;
+    font-size: 80px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-shadow: 5px -5px 5px black;
+}
+
+p.para{
+    font-weight: bold;
+    font-style: italic;
+}

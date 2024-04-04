@@ -1,0 +1,19 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 100px;
+    text-decoration: underline;
+    text-transform:capitalize;
+    text-shadow: 5px -5px 5px black;
+    background-color: bisque;
+}
+p{
+    font-weight: bold;
+    font-style: italic;
+    background-color: bisque;
+}
+.pp{
+    color:fuchsia;
+    background-color: bisque;
+}
+
